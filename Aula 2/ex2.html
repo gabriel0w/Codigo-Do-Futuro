@@ -1,0 +1,23 @@
+<!-- EXERCISE 4
+Mirian é uma aluna que precisa saber a média de suas 3 notas
+Faça um programa que solicite as 3 notas e 
+calcule a média no final
+-->
+
+<script>
+    nota1 = Number(prompt("Digite a primeira nota"))
+    nota2 = Number(prompt("Digite a segunda nota"))
+    nota3 = Number(prompt("Digite a terceira nota"))
+
+
+    media = (nota1 + nota2 + nota3)/3
+        
+    if (media > 10 || media < 0)
+    {
+        alert("Cada nota deve ter uma pontuação de 0 a 10")
+    }
+    else
+    {    
+        alert(`A média de Mirian é de ${media.toFixed(2)}`)
+    }
+</script>

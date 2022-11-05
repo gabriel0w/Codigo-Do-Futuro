@@ -16,4 +16,5 @@ O Código do Futuro é uma parceria da Febrafar e da Farmarcas com a Gama Academ
 
 # :bookmark_tabs: Aulas
 
-- [x] `Aula 1` Lógica de programação em js | princípios de git.
+- [x] `Aula 1` Lógica de programação em JS | princípios de github.
+- [x] `Aula 2` Operadores em JS

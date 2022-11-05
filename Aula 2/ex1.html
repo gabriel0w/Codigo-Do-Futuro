@@ -1,0 +1,19 @@
+<!-- 
+Cris é uma professora de matemática.
+Ela decidiu montar um cálculo que mostrará a rotação do
+planeta Terra perante o sistema solar.
+Para calcular esse problema, ela chegou na seguinte expressão:
+resultado = y + 5 * 9 / 7 + (h - t / T + o) - 5 * 100
+Faça um programa que resolva esta operação
+-->
+
+<script>
+    varY = parseFloat(prompt("Digite o valor de 'y': "))
+    varH = parseFloat(prompt("Digite o valor de 'h': "))
+    var_t = parseFloat(prompt("Digite o valor de 't': "))
+    varT = parseFloat(prompt("Digite o valor de 'T': "))
+    varO = parseFloat(prompt("Digite o valor de 'o': "))
+
+    let resultado = varY + 5 * 9 / 7 + (varH - var_t / varT + varO) - 5 * 100
+    alert(`A rotação do planeta Terra perante o sistema solar é de ${resultado.toFixed(2)}`)
+</script>
