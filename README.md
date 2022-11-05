@@ -3,9 +3,6 @@
     <img alt="Gabriel Belo" src="https://img.shields.io/badge/-Gabriel Belo-682998?style=flat&logo=Linkedin&logoColor=white" />
   </a>
 </p>
-<p align="center">
-  100/100
-</p>
 
 ---
 
