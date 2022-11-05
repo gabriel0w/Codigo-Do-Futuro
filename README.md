@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/gabriel-b-218975121/">
     <img alt="Gabriel Belo" src="https://img.shields.io/badge/-Gabriel Belo-682998?style=flat&logo=Linkedin&logoColor=white" />
   </a>
