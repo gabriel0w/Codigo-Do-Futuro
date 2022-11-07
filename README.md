@@ -18,3 +18,9 @@ O Código do Futuro é uma parceria da Febrafar e da Farmarcas com a Gama Academ
 
 - [x] `Aula 1` Lógica de programação em JS | princípios de github.
 - [x] `Aula 2` Operadores em JS
+
+---
+
+#  :open_book: Aulas Assíncronas
+
+- :white_check_mark: `projeto_js` Projeto com node para exibir uma lista de filmes de acordo com gênero ou duração
