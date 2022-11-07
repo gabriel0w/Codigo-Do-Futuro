@@ -1,0 +1,12 @@
+{
+  "name": "projeto_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "database.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
