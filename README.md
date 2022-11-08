@@ -23,4 +23,4 @@ O Código do Futuro é uma parceria da Febrafar e da Farmarcas com a Gama Academ
 
 #  :open_book: Aulas Assíncronas
 
-- :white_check_mark: `projeto_js` Projeto com node para exibir uma lista de filmes de acordo com gênero ou duração
+:white_check_mark: `projeto_js` Projeto com node para exibir uma lista de filmes de acordo com gênero ou duração

@@ -1,0 +1,64 @@
+<!-- 
+Bianca é uma pessoa muito indecisa
+e precisa juntar dinheiro para conseguir em suas férias viajar
+ela terá algumas opções a escolher com seus respectivos valores
+
+Disney = R$ 15000
+Madrid = R$ 12000
+Maceió = R$ 8000
+Ribeirão preto = R$ 5000
+
+Faça um programa que solicite o nome do usuário
+o valor que o usuário tem para a viagem
+a viagem que o usuário deseja e mostre no final do programa
+se o usuário pode viajar ou se ele não pode.
+Se ele não poder viajar, mostre o quanto falta para o mesmo economizar.
+-->
+
+<script>
+
+    Disney = 15000
+    Madrid = 12000
+    Maceio = 8000
+    RibeiraoPreto = 5000
+
+    nome = prompt("Informe o seu nome")
+    valor = Number(prompt("Digite o valor"))
+    viagem = (prompt("Digite o destino: Disney | Madrid | Maceio | Ribeirão Preto"))
+
+    if (viagem == "Disney"){
+        if (valor < Disney){
+            alert(`Você não pode viajar para ${viagem}. Para conseguir, você precisa de mais R$ ${Disney - valor}`)
+        }
+        else{
+            alert(`Você pode viajar para ${viagem} !`)
+        }
+    }
+    else if (viagem == "Madrid"){
+        if (valor < Madrid){
+            alert(`Você não pode viajar para ${viagem}. Para conseguir, você precisa de mais R$ ${Madrid - valor}`)
+        }
+        else{
+            alert(`Você pode viajar para ${viagem} !`)
+        }
+    }
+    else if (viagem == "Maceio"){
+        if (valor < Maceio){
+            alert(`Você não pode viajar para ${viagem}. Para conseguir, você precisa de mais R$ ${Maceio - valor}`)
+        }
+        else{
+            alert(`Você pode viajar para ${viagem} !`)
+        }
+    }
+    else if (viagem == "Ribeirão Preto"){
+        if (valor < Maceio){
+            alert(`Você não pode viajar para ${viagem}. Para conseguir, você precisa de mais R$ ${Maceio - valor}`)
+        }
+        else{
+            alert(`Você pode viajar para ${viagem} !`)
+        }
+    }
+    else{
+        alert("Digite um destino válido!")
+    }
+</script>
